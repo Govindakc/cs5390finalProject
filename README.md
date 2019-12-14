@@ -10,6 +10,11 @@ Implementation of five different algorithms
 ## Usage:
 ```bash
 python name_of_file.py input.txt
-Or python name_of_file.py (as file contains test sequences)
+[for Needleman-Wunsch, Smith-Waterman, Edit Disatance]
+python name_of_file.py input_bwt.txt
+[for Burrows wheeler]
+python name_of_file.py input_longest_repeated_sub.txt
+[for Longest repeated substring]
+Or python name_of_file.py (as file contains sample strings)
 ```
 * For BWT, please insert $ at the end of the string.
