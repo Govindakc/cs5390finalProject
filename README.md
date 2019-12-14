@@ -3,6 +3,9 @@ Implementation of five different algorithms
 ## Requirements:
 * python==3.7.4
 * numpy==1.17.2
+## Setup
+* brew install python3
+* pip install numpy
 
 ## Usage:
 ```bash
