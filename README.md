@@ -1,5 +1,5 @@
 # CS5390FinalProject
-Implementation of five different algorithms
+Implementation of five different algorithms in computational biology: From sequence alignment to compression.
 ## Requirements:
 * python==3.7.4
 * numpy==1.17.2
