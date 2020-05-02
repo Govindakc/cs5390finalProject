@@ -1,5 +1,5 @@
 # CS5390FinalProject
-Course Link: http://cs5390f19.deblasiolab.org/
+Course Link: http://cs5390f19.deblasiolab.org/ <b>
 Implementation of five different algorithms in computational biology: From sequence alignment to compression.
 ## Requirements:
 * python==3.7.4
